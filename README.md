@@ -19,8 +19,8 @@ An interactive Power BI dashboard built to analyze global space mission data and
 
 | File | Description |
 |---|---|
-| Space_Mission_Performance_Dashboard.pbix | Power BI dashboard file |
-| Space_Corrected.csv | Space mission dataset |
+| Space_Mission_Analysis_Dashboard.pbix | Power BI dashboard file |
+| Space_Mission_Data.csv | Space mission dataset |
 | README.md | Project documentation |
 
 ---
